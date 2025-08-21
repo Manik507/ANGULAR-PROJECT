@@ -61,6 +61,20 @@ It uses **PostgreSQL** as the database and integrates seamlessly with
     npm install
     ng serve
     ```
+---
+
+## ✨ Key Features
+
+- ➕ Add new students with detailed information  
+- ✏️ **Edit existing student records** with updated information  
+- ❌ **Delete student records** safely when no longer required  
+- 🔍 Search and filter students quickly  
+- 📊 View structured data with a clean user interface  
+- 🗄️ Data stored securely in PostgreSQL Database  
+
+> ⚡ The system ensures smooth **CRUD operations (Create, Read, Update, Delete)** for effective student management.
+
+---
 
 ## 📝 License
 
