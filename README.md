@@ -2,7 +2,7 @@
 
 ## 👤 Project Leadership
 
--   **Leader**: Manik Barad\
+-   **Leader**: Manik Barad
 -   **Team Member**: Prajwal Sanade
 
 ## 📌 Project Overview
