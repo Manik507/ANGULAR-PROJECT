@@ -1,0 +1,19 @@
+# Angular / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/package-lock.json
+frontend/yarn-error.log
+frontend/*.log
+
+# Spring Boot / Java
+backend/target/
+backend/*.class
+backend/*.jar
+backend/*.war
+backend/*.log
+
+# General
+*.env
+*.tmp
+*.DS_Store
